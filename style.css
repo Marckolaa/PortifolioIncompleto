@@ -1,0 +1,586 @@
+/*Corpo da DIV*/
+.teste {
+    position: relative;
+    width: 100%;
+    height: 4348px;
+    background-color: #ffffff;
+  }
+/* Fim Corpo da DIV */
+
+/* Download CV Esquerda */
+
+.teste .sobre-mim {
+  position: absolute;
+  width: 100%;
+  height: 1478px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e;
+}
+
+.teste .overlap-group-wrapper {
+  position: absolute;
+  width: 464px;
+  height: 733px;
+  top: 44px;
+  left: 42px;
+}
+
+.teste .overlap-group-3 {
+  position: relative;
+  width: 458px;
+  height: 733px;
+  background-color: #2d2d2d;
+  border-radius: 62px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.teste .element {
+  position: absolute;
+  width: 288px;
+  height: 280px;
+  top: 86px;
+  left: 81px;
+  object-fit: cover;
+  border-radius: 62px;
+}
+
+.teste .constantemente {
+  position: absolute;
+  width: 395px;
+  top: 389px;
+  left: 51px;
+  font-family: var(--text-font-family);
+  font-weight: var(--text-font-weight);
+  color: #ffffff;
+  font-size: var(--text-font-size);
+  letter-spacing: var(--text-letter-spacing);
+  line-height: var(--text-line-height);
+  font-style: var(--text-font-style);
+}
+
+.teste .overlap-4 {
+  position: absolute;
+  width: 277px;
+  height: 78px;
+  top: 612px;
+  left: 92px;
+  border-radius: 62px;
+}
+
+.teste .rectangle-3 {
+  width: 277px;
+  height: 78px;
+  top: 0;
+  left: 0;
+  background-color: #eb0d0d;
+  position: absolute;
+  border-radius: 62px;
+}
+/* Download CV Esquerda FIM */
+/* Habilidades Header*/
+.teste .habilidades-2 {
+  position: absolute;
+  width: 461px;
+  height: 541px;
+  top: 790px;
+  left: 43px;
+}
+
+.teste .overlap-5 {
+  position: absolute;
+  width: 457px;
+  height: 502px;
+  top: 39px;
+  left: 0;
+  background-color: #2d2d2d;
+  border-radius: 62px;
+}
+
+.teste .devicon-react {
+  position: absolute;
+  width: 72px;
+  height: 74px;
+  top: 14px;
+  left: 183px;
+}
+
+.teste .logos-nodejs-icon {
+  position: absolute;
+  width: 72px;
+  height: 74px;
+  top: 14px;
+  left: 337px;
+}
+
+.teste .logos-figma {
+  position: absolute;
+  width: 55px;
+  height: 74px;
+  top: 18px;
+  left: 47px;
+}
+
+.teste .logos-icon {
+  position: absolute;
+  width: 72px;
+  height: 73px;
+  top: 125px;
+  left: 38px;
+}
+
+.teste .devicon-mongodb {
+  position: absolute;
+  width: 104px;
+  height: 106px;
+  top: 111px;
+  left: 168px;
+}
+
+.teste .logos-mysql {
+  position: absolute;
+  width: 133px;
+  height: 94px;
+  top: 112px;
+  left: 307px;
+}
+
+.teste .devicon {
+  position: absolute;
+  width: 127px;
+  height: 120px;
+  top: 239px;
+  left: 11px;
+}
+
+.teste .logos-css {
+  position: absolute;
+  width: 89px;
+  height: 120px;
+  top: 237px;
+  left: 180px;
+}
+
+.teste .skill-icons {
+  position: absolute;
+  width: 106px;
+  height: 104px;
+  top: 246px;
+  left: 311px;
+}
+
+.teste .meio-imagem {
+  position: absolute;
+  width: 521px;
+  height: 1069px;
+  top: 130px;
+  left: 519px;
+  background-image: url(./img/image-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.teste .div-wrapper {
+  width: 208px;
+  left: 35px;
+  position: absolute;
+  height: 86px;
+  top: 944px;
+}
+
+.teste .overlap-group-4 {
+  position: relative;
+  width: 206px;
+  height: 86px;
+  background-color: #eb0d0d;
+  border-radius: 62px;
+}
+
+
+.teste .overlap-wrapper {
+  width: 220px;
+  left: 264px;
+  position: absolute;
+  height: 86px;
+  top: 944px;
+}
+
+.teste .overlap-6 {
+  position: relative;
+  width: 218px;
+  height: 86px;
+  background-color: #000000;
+  border-radius: 62px;
+}
+
+/* Contato Header */
+
+.teste .direita {
+  position: absolute;
+  width: 334px;
+  height: 1069px;
+  top: 130px;
+  left: 1059px;
+}
+
+.teste .overlap-7 {
+  position: relative;
+  width: 328px;
+  height: 1069px;
+}
+
+.teste .rectangle-4 {
+  width: 320px;
+  height: 1069px;
+  top: 0;
+  left: 0;
+  background-color: #2d2d2d;
+  position: absolute;
+  border-radius: 62px;
+}
+
+.teste .img {
+  width: 250px;
+  height: 314px;
+  top: 404px;
+  left: 31px;
+  position: absolute;
+  object-fit: cover;
+}
+
+
+.teste .contato-botao {
+  position: absolute;
+  width: 208px;
+  height: 86px;
+  top: 911px;
+  left: 63px;
+}
+
+.teste .ellipse-linkedin {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  top: 319px;
+  left: 20px;
+  background-color: #ffffff;
+  border-radius: 33px / 32.5px;
+}
+
+.teste .elipse-git-HUB {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  top: 319px;
+  left: 118px;
+  background-color: #ffffff;
+  border-radius: 33px / 32.5px;
+}
+
+.teste .elipse-indeed {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  top: 319px;
+  left: 215px;
+  background-color: #ffffff;
+  border-radius: 33px / 32.5px;
+}
+
+.teste .mdi-linkedin {
+  position: absolute;
+  width: 61px;
+  height: 58px;
+  top: 322px;
+  left: 22px;
+}
+
+.teste .marco-serra {
+  width: 271px;
+  top: 54px;
+  left: 20px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.teste .mdi-github-2 {
+  position: absolute;
+  width: 63px;
+  height: 58px;
+  top: 322px;
+  left: 119px;
+}
+
+.teste .simple-icons-indeed {
+  position: absolute;
+  width: 57px;
+  height: 45px;
+  top: 329px;
+  left: 215px;
+}
+
+/* IMAGENS PERFIL CONFIG*/
+  .img_meio {
+    border-radius: 62px;
+  }
+
+  .img_perfil_cv{
+    border-radius: 62px;
+  }
+
+  .img_contato {
+    width: 250px;
+    height: 314px;
+    top: 404px;
+    left: 31px;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 52px;
+  }
+/* FIM IMAGENS PERFIL CONFIG */
+
+  /* Experiencia BODY */
+  .teste .experiencia {
+    position: absolute;
+    width: 100%;
+    height: 696px;
+    top: 2848px;
+    left: 0;
+    background-color: #1e1e1e;
+    overflow: hidden;
+  }
+  
+  .teste .experi-ncia {
+    position: absolute;
+    width: 648px;
+    top: 57px;
+    left: 83px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  /* Experiencia BODY FIM*/
+
+/* HABILIDADES BODY */
+  .teste .habilidade {
+    position: absolute;
+    width: 100%;
+    height: 696px;
+    top: 3544px;
+    left: 0;
+    background-color: #1e1e1e;
+  }
+  
+  .teste .habilidades {
+    position: absolute;
+    width: 648px;
+    top: 25px;
+    left: 792px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .teste .span {
+    font-family: var(--titles-font-family);
+    font-weight: var(--titles-font-weight);
+    color: #ffffff;
+    font-size: var(--titles-font-size);
+    letter-spacing: var(--titles-letter-spacing);
+    font-style: var(--titles-font-style);
+    line-height: var(--titles-line-height);
+  }
+  
+  .teste .mdi-github {
+    position: absolute;
+    width: 310px;
+    height: 305px;
+    top: 43px;
+    left: 208px;
+  }
+  
+  .teste .overlap-group {
+    position: absolute;
+    width: 294px;
+    height: 86px;
+    top: 367px;
+    left: 216px;
+    background-color: #000000;
+    border-radius: 62px;
+  }
+  /* HABILIDADES BODY FIM */
+  /*  PROJETOS */
+  .teste .projetos {
+    position: absolute;
+    width: 100%;
+    height: 1370px;
+    top: 1478px;
+    left: 0;
+    background-color: #1e1e1e;
+  }
+  
+  .teste .overlap {
+    position: absolute;
+    width: 1238px;
+    height: 1017px;
+    top: 237px;
+    left: 84px;
+  }
+  
+  .teste .overlap-2 {
+    position: absolute;
+    width: 1238px;
+    height: 901px;
+    top: 0;
+    left: 0;
+  }
+  
+  .teste .overlap-3 {
+    position: absolute;
+    width: 1238px;
+    height: 771px;
+    top: 0;
+    left: 0;
+  }
+  
+  .teste .learnmatetext {
+    position: absolute;
+    width: 810px;
+    top: 0;
+    left: 0;
+    font-family: var(--text-font-family);
+    font-weight: var(--text-font-weight);
+    color: #ffffff;
+    font-size: var(--text-font-size);
+    letter-spacing: var(--text-letter-spacing);
+    line-height: var(--text-line-height);
+    font-style: var(--text-font-style);
+  }
+  
+  .teste .funcionalidades {
+    position: absolute;
+    width: 592px;
+    top: 242px;
+    left: 646px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .teste .learnmateimage {
+    width: 506px;
+    height: 294px;
+    top: 301px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 62px;
+  }
+  
+  .teste .tecnologias {
+    position: absolute;
+    width: 572px;
+    top: 721px;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .teste .project-button {
+    position: absolute;
+    width: 326px;
+    height: 137px;
+    top: 880px;
+    left: 711px;
+  }
+  
+  .teste .group {
+    width: 330px;
+    height: 137px;
+  }
+  
+  .teste .overlap-group-2 {
+    position: relative;
+    width: 326px;
+    height: 137px;
+    top: 80px;
+  }
+  
+  .teste .rectangle {
+    width: 305px;
+    height: 128px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    position: absolute;
+    border-radius: 62px;
+  }
+  
+  .teste .rectangle-2 {
+    width: 292px;
+    height: 73px;
+    top: 64px;
+    left: 34px;
+    background-color: #eb0d0d;
+    position: absolute;
+    border-radius: 62px;
+  }
+   /* FIM PROJETO*/
+  
+  /* FOOTER CONTATO*/
+  .teste .divcontatofooter {
+    position: absolute;
+    width: 156px;
+    top: -1px;
+    left: 110px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .teste .stash-arrow-up-solid {
+    position: absolute;
+    width: 113px;
+    height: 105px;
+    top: 0;
+    left: 1327px;
+  }
+
+  .teste .vector {
+    position: absolute;
+    width: 59px;
+    height: 63px;
+    top: 21px;
+    left: 27px;
+  }
+  
+  .teste .contato {
+    position: absolute;
+    width: 100%;
+    height: 108px;
+    top: 4240px;
+    left: 0;
+    background-color: #1e1e1e;
+  }
+/* FIM FOOTER CONTATO*/

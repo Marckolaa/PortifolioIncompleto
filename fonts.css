@@ -1,0 +1,256 @@
+/* Todas minhas configs de fontes */
+
+.teste .text-wrapper {
+    position: absolute;
+    width: 532px;
+    top: 45px;
+    left: 110px;
+    font-family: var(--text-font-family);
+    font-weight: var(--text-font-weight);
+    color: #ffffff;
+    font-size: var(--text-font-size);
+    letter-spacing: var(--text-letter-spacing);
+    line-height: var(--text-line-height);
+    font-style: var(--text-font-style);
+  }
+  
+  .teste .text-wrapper-2 {
+    font-size: var(--text-font-size);
+    font-family: var(--text-font-family);
+    font-style: var(--text-font-style);
+    font-weight: var(--text-font-weight);
+    letter-spacing: var(--text-letter-spacing);
+    line-height: var(--text-line-height);
+  }
+
+  .teste .text-wrapper-3 {
+    position: absolute;
+    width: 134px;
+    top: 19px;
+    left: 88px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .teste .text-wrapper-4 {
+    font-size: var(--sub-titles-font-size);
+    font-family: var(--sub-titles-font-family);
+    font-style: var(--sub-titles-font-style);
+    font-weight: var(--sub-titles-font-weight);
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+  }
+
+  .teste .text-wrapper-5 {
+    font-size: 24px;
+  }
+
+  .teste .text-wrapper-6 {
+    position: absolute;
+    width: 147px;
+    top: 29px;
+    left: 58px;
+    font-family: var(--titles-font-family);
+    font-weight: var(--titles-font-weight);
+    color: #ffffff;
+    font-size: var(--titles-font-size);
+    letter-spacing: var(--titles-letter-spacing);
+    line-height: var(--titles-line-height);
+    font-style: var(--titles-font-style);
+  }
+
+  .teste .text-wrapper-7 {
+    width: 326px;
+    top: 159px;
+    left: 58px;
+    font-size: 48px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .teste .text-wrapper-8 {
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    font-size: var(--sub-titles-font-size);
+    letter-spacing: var(--sub-titles-letter-spacing);
+    font-style: var(--sub-titles-font-style);
+    line-height: var(--sub-titles-line-height);
+  }
+
+  .teste .text-wrapper-9 {
+    position: absolute;
+    width: 274px;
+    top: 19px;
+    left: 18px;
+    transform: rotate(-0.39deg);
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    font-size: var(--sub-titles-font-size);
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+    font-style: var(--sub-titles-font-style);
+  }
+
+  .teste .text-wrapper-10 {
+    width: 251px;
+    top: 78px;
+    left: 60px;
+    font-size: var(--sub-titles-font-size);
+    position: absolute;
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+    font-style: var(--sub-titles-font-style);
+  }
+
+  .teste .text-wrapper-11 {
+    width: 243px;
+    top: 27px;
+    left: 122px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    position: absolute;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .teste .text-wrapper-12 {
+    position: absolute;
+    width: 235px;
+    top: 20px;
+    left: 30px;
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    font-size: var(--sub-titles-font-size);
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+    font-style: var(--sub-titles-font-style);
+  }
+
+  .teste .text-wrapper-13 {
+    position: absolute;
+    width: 374px;
+    top: 369px;
+    left: 41px;
+    font-family: var(--text-font-family);
+    font-weight: var(--text-font-weight);
+    color: #ffffff;
+    font-size: var(--text-font-size);
+    text-align: center;
+    letter-spacing: var(--text-letter-spacing);
+    line-height: var(--text-line-height);
+    font-style: var(--text-font-style);
+  }
+
+  .teste .text-wrapper-14 {
+    position: absolute;
+    width: 230px;
+    top: 0;
+    left: 100px;
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    font-size: var(--sub-titles-font-size);
+    text-align: center;
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+    font-style: var(--sub-titles-font-style);
+  }
+
+  .teste .text-wrapper-15 {
+    position: absolute;
+    width: 130px;
+    top: 26px;
+    left: 38px;
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    font-size: var(--sub-titles-font-size);
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+    font-style: var(--sub-titles-font-style);
+  }
+
+  .teste .text-wrapper-16 {
+    position: absolute;
+    width: 200px;
+    top: 24px;
+    left: 19px;
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    font-size: var(--sub-titles-font-size);
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+    font-style: var(--sub-titles-font-style);
+  }
+
+  .teste .text-wrapper-17 {
+    position: absolute;
+    width: 308px;
+    top: 141px;
+    left: 20px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .teste .text-wrapper-18 {
+    position: absolute;
+    width: 137px;
+    top: 25px;
+    left: 34px;
+    font-family: var(--sub-titles-font-family);
+    font-weight: var(--sub-titles-font-weight);
+    color: #ffffff;
+    font-size: var(--sub-titles-font-size);
+    letter-spacing: var(--sub-titles-letter-spacing);
+    line-height: var(--sub-titles-line-height);
+    font-style: var(--sub-titles-font-style);
+  }
+
+  .teste .text-wrapper-19 {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+  }
+
+  .teste .text-wrapper-20 {
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+  }
+
+  .teste .text-wrapper-21 {
+    position: absolute;
+    width: 243px;
+    top: 838px;
+    left: 28px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  /*FIM CONFIG DE FONTES */
